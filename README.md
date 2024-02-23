@@ -1,4 +1,4 @@
-# breathe
+# Breathe
 
 **Breathe Animation with CSS.**
 
